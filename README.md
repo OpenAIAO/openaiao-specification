@@ -9,7 +9,7 @@ The OpenAIAO Specification is a structured standard designed to optimize the int
 - Reduce the overhead required for AI-driven automation and business integrations.
 
 ## Core Principles
-1. **JSON-LD Format**: The AIAO specification leverages JSON-LD for structured data representation.
+1. **JSON-LD Format**: The OpenAIAO specification leverages JSON-LD for structured data representation.
 2. **Discoverability**: AI agents should be able to find relevant structured data through a standardized directory.
 3. **Extensibility**: The standard should allow for industry-specific extensions while maintaining a core schema.
 4. **Security & Privacy**: Implement authentication and authorization mechanisms where necessary to protect sensitive business data.
