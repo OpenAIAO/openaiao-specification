@@ -41,7 +41,7 @@ Thank you for your interest in contributing to the OpenAIAO Specification! Follo
 - Discuss major changes in GitHub Discussions before implementation.
 
 ## Code of Conduct
-By contributing, you agree to uphold our [Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing, you agree to uphold our [CODE_OF_CONDUCT.md](https://github.com/OpenAIAO/.openaiao/blob/main/CONTRIBUTING.md).
 
 ---
 Thank you for helping to improve OpenAIAO!
